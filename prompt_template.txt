@@ -1,0 +1,4 @@
+Your task is to summarize a body of text into one sentence. Use terminology that a layperson without special knowledge could reasonably understand. Avoid jargon. 
+
+Using these rules, summarize the following text:
+$text
